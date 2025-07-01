@@ -3,7 +3,7 @@ How to Contact Xfinity Customer Service Fast? 📞⚡
 
 Having trouble with your internet connection, billing, or device setup? You're not alone. Many people need to **contact Xfinity customer service** to resolve issues quickly and efficiently. Fortunately, there are multiple ways to reach **Xfinity support** and get the help you need — fast. 🚀
 
-.. image:: start.png
+.. image:: service-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
